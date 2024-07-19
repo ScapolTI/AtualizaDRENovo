@@ -1,0 +1,36 @@
+c:\users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\AtualizaDRE.vbprojResolveAssemblyReference.cache
+c:\users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\AtualizaDRE.vbproj.GenerateResource.Cache
+c:\users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\AtualizaDRE.vbproj.CoreCompileInputs.cache
+c:\users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\Interop.ADODB.dll
+c:\users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\AtualizaDRE.vbproj.ResolveComReference.cache
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\bin\Debug\AtualizarDRE.exe.config
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\bin\Debug\AtualizarDRE.exe.manifest
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\bin\Debug\AtualizarDRE.application
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\bin\Debug\AtualizarDRE.exe
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\bin\Debug\AtualizarDRE.pdb
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\bin\Debug\AtualizarDRE.xml
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\AtualizarDRE.Form1.resources
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\AtualizarDRE.Resources.resources
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\AtualizarDRE.exe.manifest
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\AtualizarDRE.application
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\AtualizarDRE.exe
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\AtualizarDRE.xml
+C:\Users\sergio.santarosa\source\repos\AtualizaDRE\AtualizaDRE\obj\Debug\AtualizarDRE.pdb
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\bin\Debug\AtualizarDRE.exe.config
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\bin\Debug\AtualizarDRE.exe.manifest
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\bin\Debug\AtualizarDRE.application
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\bin\Debug\AtualizarDRE.exe
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\bin\Debug\AtualizarDRE.pdb
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\bin\Debug\AtualizarDRE.xml
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\AtualizaDRE.vbprojResolveAssemblyReference.cache
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\Interop.ADODB.dll
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\AtualizaDRE.vbproj.ResolveComReference.cache
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\AtualizarDRE.Form1.resources
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\AtualizarDRE.Resources.resources
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\AtualizaDRE.vbproj.GenerateResource.cache
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\AtualizaDRE.vbproj.CoreCompileInputs.cache
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\AtualizarDRE.exe.manifest
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\AtualizarDRE.application
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\AtualizarDRE.exe
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\AtualizarDRE.xml
+C:\Users\fabio.morales\Documents\Visual Studio 2017\Projects\AtualizaDRENovo\AtualizaDRE\obj\Debug\AtualizarDRE.pdb
